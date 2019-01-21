@@ -1,7 +1,7 @@
 {
   "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
   "type": "QuickStart",
-  "itemDisplayName": "Docker Swarm Cluster",
+  "itemDisplayName": "Docker Swarm SEOS",
   "description": "This template creates a high-availability Docker Swarm cluster",
   "summary": "This template deploys a Docker Swarm with 1 masters and specified number of nodes.",
   "githubUsername": "cperezprieto",
